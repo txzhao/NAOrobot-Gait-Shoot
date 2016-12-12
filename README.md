@@ -2,6 +2,7 @@
 Equipment: NAO robot
 
 Task: 
+
 1. draw circle using left hand, draw square using right hand
 
 2. recognise the ball in the environment and compute its position

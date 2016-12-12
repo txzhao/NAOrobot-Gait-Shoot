@@ -9,4 +9,4 @@ Task:
 
 3. control NAO robot to walk to that position
 
-4. shoot at the goal within three chances
+4. shoot at the goal with three chances
